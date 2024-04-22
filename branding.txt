@@ -1,0 +1,11 @@
+bleue : 
+1 - #3bfafb : bleu simple
+2 - #0e8aba : bleu foncee (boutons simples et textes)
+
+orange  : 
+1 - #f9c502 : orange simple
+2 - #f57100 : orange foncee (boutons danger et textes)
+
+texte : 
+police : poppins
+style : italic
